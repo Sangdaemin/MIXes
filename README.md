@@ -1,1 +1,1 @@
-# MIXesProject
+# MIXes
